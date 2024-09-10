@@ -42,8 +42,7 @@ To run this script, follow these steps:
     - The generated passwords will be saved in the file with the name you specify.
 
 ## Example Output
-![Uploading Screenshot 2024-09-10 144101.png…]()
-
+![alt image](image.jpg)
 ## Requirements
 
 - Python 3.x
